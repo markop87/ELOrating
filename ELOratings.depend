@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1670942606 source:d:\marek\cpp\eloratings\main.cpp
+	<iostream>
+	<cmath>
+
